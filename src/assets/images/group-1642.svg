@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svgjs="http://svgjs.com/svgjs"
+        xmlns:xlink="http://www.w3.org/1999/xlink" width="288" height="288"><svg xmlns="http://www.w3.org/2000/svg"
+            width="288" height="288" viewBox="0 0 575.968 356.477">
+            <g class="color000 svgShape" transform="translate(-120.587 -44.523)"><text fill="#35354b"
+                    font-family="Montserrat-Bold,Montserrat" font-size="20" font-weight="700" letter-spacing=".075em"
+                    transform="translate(403.283 63.523)" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+                    <tspan x="-49.96" y="0">AltScore</tspan>
+                </text>
+                <g class="color000 svgShape" transform="translate(368.776 347.156)">
+                    <path fill="#344056"
+                        d="M267.5,203.826a14.264,14.264,0,1,1-20.173,0A14.26,14.26,0,0,1,267.5,203.826Z"
+                        class="color344056 svgShape" transform="translate(-217.836 -174.332)" />
+                    <path fill="#344056"
+                        d="M257.1,213.467a14.2,14.2,0,0,1,8.795-4.116l-34.718-21.678,21.794,34.9A14.2,14.2,0,0,1,257.1,213.467Z"
+                        class="color344056 svgShape" transform="translate(-231.176 -187.673)" />
+                </g>
+                <g class="color000 svgShape" transform="translate(417.028 103.474)">
+                    <path fill="#4b9d26"
+                        d="M299.07,296.712l141.262-141.26A287.12,287.12,0,0,0,254,79.785v199A86.928,86.928,0,0,1,299.07,296.712Z"
+                        class="colorf95665 svgShape" transform="translate(-254 -64.189)" />
+                    <g class="color000 svgShape" transform="translate(39.104 88.604)"><text fill="#fff"
+                            font-family="OpenSans-ExtraBold,Open Sans" font-size="15" font-weight="800"
+                            transform="translate(46.551 -22)" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+                            <tspan x="-73.477" y="0">Technical</tspan>
+                        </text><text fill="#fff" font-family="FuturaBT-Light,Futura Lt BT" font-size="10"
+                            font-weight="300" letter-spacing=".02em" transform="translate(-26.132 -8.077)"
+                            svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+                            <tspan x="0" y="10">Technology, EPC contractor, </tspan>
+                            <tspan x="0" y="22">warranties and </tspan>
+                            <tspan x="0" y="34">guarantees and operations </tspan>
+                            <tspan x="0" y="46">and maintenance</tspan>
+                        </text></g>
+                </g>
+                <g class="color000 svgShape" transform="translate(211.652 106.938)">
+                    <path fill="#1355e2"
+                        d="M345.317,278.789v-199a287.146,287.146,0,0,0-188.463,77.651l141.1,141.1A86.991,86.991,0,0,1,345.317,278.789Z"
+                        class="colorf95665 svgShape" transform="translate(-156.854 -67.653)" />
+                    <g class="color000 svgShape" transform="translate(74.649 89.139)"><text fill="#fff"
+                            font-family="OpenSans-ExtraBold,Open Sans" font-size="15" font-weight="800"
+                            transform="translate(92.551 -23)" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+                            <tspan x="-97.698" y="0">Project Yeild</tspan>
+                        </text><text fill="#fff" font-family="FuturaBT-Light,Futura Lt BT" font-size="10"
+                            font-weight="300" letter-spacing=".02em" transform="translate(-5.301 -8.077)"
+                            svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+                            <tspan x="0" y="10">Key project assumptions </tspan>
+                            <tspan x="0" y="22">including generation, </tspan>
+                            <tspan x="0" y="34">detailed scenario </tspan>
+                            <tspan x="0" y="46">analysis and ROI impact</tspan>
+                        </text></g>
+                </g>
+                <g class="color000 svgShape" transform="translate(107.668 208.623)">
+                    <path fill="#4b9d26"
+                        d="M334.038,263.356,192.829,122.145a287.182,287.182,0,0,0-79.05,187.315H314.853A86.974,86.974,0,0,1,334.038,263.356Z"
+                        class="colorf95665 svgShape" transform="translate(-100.86 -122.145)" />
+                    <g class="color000 svgShape" transform="translate(77.156 99.014)"><text fill="#fff"
+                            font-family="OpenSans-ExtraBold,Open Sans" font-size="15" font-weight="800"
+                            transform="translate(49.551 -3)" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+                            <tspan x="-69.565" y="0">Financial</tspan>
+                        </text><text fill="#fff" font-family="FuturaBT-Light,Futura Lt BT" font-size="10"
+                            font-weight="300" letter-spacing=".02em" transform="translate(-20.824 11.363)"
+                            svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+                            <tspan x="0" y="10">Analysis of 800+ financial </tspan>
+                            <tspan x="0" y="22">points each for offtaker, </tspan>
+                            <tspan x="0" y="34">developer, and EPC</tspan>
+                        </text></g>
+                </g>
+                <g class="color000 svgShape" transform="translate(474.402 206.537)">
+                    <path fill="#1355e2"
+                        d="M302.219,310.56H503.292a287.2,287.2,0,0,0-81.076-189.4L281.139,262.234A86.993,86.993,0,0,1,302.219,310.56Z"
+                        class="colorf95665 svgShape" transform="translate(-281.139 -121.158)" />
+                    <g class="color000 svgShape" transform="translate(88.141 91.101)"><text fill="#fff"
+                            font-family="OpenSans-ExtraBold,Open Sans" font-size="15" font-weight="800"
+                            transform="translate(43.55 6)" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+                            <tspan x="-41.287" y="0">Legal</tspan>
+                        </text><text fill="#fff" font-family="FuturaBT-Light,Futura Lt BT" font-size="10"
+                            font-weight="300" letter-spacing=".02em" transform="translate(2.457 20.363)"
+                            svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+                            <tspan x="0" y="10">PPAs, DPAs, EPC, Supply, </tspan>
+                            <tspan x="0" y="22">and O&amp;M contracts</tspan>
+                        </text></g>
+                </g>
+            </g>
+        </svg>
+        </svg>
