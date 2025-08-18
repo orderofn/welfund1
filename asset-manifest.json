@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/welfund1/static/css/main.6f863db2.chunk.css",
-    "main.js": "/welfund1/static/js/main.42a8a894.chunk.js",
-    "main.js.map": "/welfund1/static/js/main.42a8a894.chunk.js.map",
+    "main.js": "/welfund1/static/js/main.f651745a.chunk.js",
+    "main.js.map": "/welfund1/static/js/main.f651745a.chunk.js.map",
     "runtime-main.js": "/welfund1/static/js/runtime-main.5d0fd5ca.js",
     "runtime-main.js.map": "/welfund1/static/js/runtime-main.5d0fd5ca.js.map",
     "static/css/2.bdde8d10.chunk.css": "/welfund1/static/css/2.bdde8d10.chunk.css",
-    "static/js/2.5dd6a4f5.chunk.js": "/welfund1/static/js/2.5dd6a4f5.chunk.js",
-    "static/js/2.5dd6a4f5.chunk.js.map": "/welfund1/static/js/2.5dd6a4f5.chunk.js.map",
+    "static/js/2.84102b62.chunk.js": "/welfund1/static/js/2.84102b62.chunk.js",
+    "static/js/2.84102b62.chunk.js.map": "/welfund1/static/js/2.84102b62.chunk.js.map",
     "index.html": "/welfund1/index.html",
-    "precache-manifest.98f4ffc1c0662a81407bed03e0aaabb8.js": "/welfund1/precache-manifest.98f4ffc1c0662a81407bed03e0aaabb8.js",
+    "precache-manifest.ac497903eb2c76b17195146292ead021.js": "/welfund1/precache-manifest.ac497903eb2c76b17195146292ead021.js",
     "service-worker.js": "/welfund1/service-worker.js",
     "static/css/2.bdde8d10.chunk.css.map": "/welfund1/static/css/2.bdde8d10.chunk.css.map",
     "static/css/main.6f863db2.chunk.css.map": "/welfund1/static/css/main.6f863db2.chunk.css.map",
-    "static/js/2.5dd6a4f5.chunk.js.LICENSE.txt": "/welfund1/static/js/2.5dd6a4f5.chunk.js.LICENSE.txt",
-    "static/js/main.42a8a894.chunk.js.LICENSE.txt": "/welfund1/static/js/main.42a8a894.chunk.js.LICENSE.txt",
+    "static/js/2.84102b62.chunk.js.LICENSE.txt": "/welfund1/static/js/2.84102b62.chunk.js.LICENSE.txt",
+    "static/js/main.f651745a.chunk.js.LICENSE.txt": "/welfund1/static/js/main.f651745a.chunk.js.LICENSE.txt",
     "static/media/11.svg": "/welfund1/static/media/11.b33407e3.svg",
     "static/media/2.svg": "/welfund1/static/media/2.d5abfa0e.svg",
     "static/media/22.svg": "/welfund1/static/media/22.c87d5b76.svg",
@@ -61,8 +61,8 @@
   "entrypoints": [
     "static/js/runtime-main.5d0fd5ca.js",
     "static/css/2.bdde8d10.chunk.css",
-    "static/js/2.5dd6a4f5.chunk.js",
+    "static/js/2.84102b62.chunk.js",
     "static/css/main.6f863db2.chunk.css",
-    "static/js/main.42a8a894.chunk.js"
+    "static/js/main.f651745a.chunk.js"
   ]
 }
