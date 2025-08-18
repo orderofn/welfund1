@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db83b5c39371914393cc4af920f19e76",
+    "revision": "bfa6d04a0ea94bed0b926f794abd6e88",
     "url": "/welfund1/index.html"
   },
   {
-    "revision": "353933a294a47a5c4e95",
+    "revision": "309733f0a5ddcb308fd0",
     "url": "/welfund1/static/css/2.bdde8d10.chunk.css"
   },
   {
-    "revision": "a788c0ff53a99e5f93bf",
+    "revision": "3e96075234a5bc8c9e3a",
     "url": "/welfund1/static/css/main.6f863db2.chunk.css"
   },
   {
-    "revision": "353933a294a47a5c4e95",
-    "url": "/welfund1/static/js/2.84102b62.chunk.js"
+    "revision": "309733f0a5ddcb308fd0",
+    "url": "/welfund1/static/js/2.0aa50742.chunk.js"
   },
   {
     "revision": "c51b4db1899f08b6e515e095255536ed",
-    "url": "/welfund1/static/js/2.84102b62.chunk.js.LICENSE.txt"
+    "url": "/welfund1/static/js/2.0aa50742.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a788c0ff53a99e5f93bf",
-    "url": "/welfund1/static/js/main.f651745a.chunk.js"
+    "revision": "3e96075234a5bc8c9e3a",
+    "url": "/welfund1/static/js/main.1e73b76c.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/welfund1/static/js/main.f651745a.chunk.js.LICENSE.txt"
+    "url": "/welfund1/static/js/main.1e73b76c.chunk.js.LICENSE.txt"
   },
   {
     "revision": "5bab619f4abd00920333",
