@@ -10,6 +10,8 @@ import { Nav } from "react-bootstrap";
 // import HubspotForm from "react-hubspot-form";
 import "../../assets/css/App.css";
 // import { useForm } from "react-hook-form";
+import { NavLink } from "react-router-dom";
+
 
 class Footer extends Component {
   constructor(props) {
@@ -119,17 +121,17 @@ class Footer extends Component {
               <div className="col-lg-3 col-6">
                 <h5 className="text-white mb-3 f-18">Useful Links</h5>
                 <p className="footer-para">
-                  <Nav.Link className="text-white" href="/">
+                  <Nav.Link as={NavLink} className="text-white" to="/">
                     Home
                   </Nav.Link>
                 </p>
                 <p className="footer-para">
-                  <Nav.Link className="text-white" href="/invest">
+                  <Nav.Link as={NavLink} className="text-white" to="/invest">
                     Invest
                   </Nav.Link>
                 </p>
                 <p className="footer-para">
-                  <Nav.Link className="text-white" href="/projects">
+                  <Nav.Link as={NavLink} className="text-white" to="/projects">
                     Get Funded
                   </Nav.Link>
                 </p>
@@ -144,17 +146,17 @@ class Footer extends Component {
                 {/*  </Nav.Link>*/}
                 {/*</p>*/}
                 <p className="footer-para">
-                  <Nav.Link className="text-white" href="/privacy-policy">
+                  <Nav.Link as={NavLink} className="text-white" to="/privacy-policy">
                     Privacy Policy
                   </Nav.Link>
                 </p>
                 <p className="footer-para">
-                  <Nav.Link className="text-white" href="/terms-and-conditions">
+                  <Nav.Link as={NavLink} className="text-white" to="/terms-and-conditions">
                     Terms & Conditions
                   </Nav.Link>
                 </p>
                 <p className="footer-para">
-                  <Nav.Link className="text-white" href="/faqs">
+                  <Nav.Link as={NavLink} className="text-white" to="/faqs">
                     FAQS
                   </Nav.Link>
                 </p>

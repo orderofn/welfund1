@@ -38,7 +38,7 @@ class Header extends Component {
         </a> */}
         <Navbar bg="white" className="bg-header" fixed="top" expand="lg">
           <Container fluid>
-            <Navbar.Brand className="font-logo" href="/">
+            <Navbar.Brand as={Link} className="font-logo" to="/">
               <img src={Logo} className="header-cloud-center" alt="Welfund" />
             </Navbar.Brand>
             <Navbar.Toggle
