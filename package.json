@@ -2,7 +2,7 @@
   "name": "altier-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://orderofn.github.io/welfund1",
+  "homepage": "https://welfund.org",
   "dependencies": {
     "@coreui/react-chartjs": "^2.1.1",
     "@testing-library/jest-dom": "^4.2.4",
